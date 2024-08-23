@@ -1,4 +1,4 @@
-// back tot top
+// Back to top
 
 let backToTopBtn = document.querySelector('.back-to-top')
 
@@ -10,7 +10,7 @@ window.onscroll = () => {
     }
 }
 
-// top nav menu
+// Top nav menu
 
 let menuItems = document.getElementsByClassName('menu-item')
 
@@ -22,7 +22,7 @@ Array.from(menuItems).forEach((item, index) => {
     }
 })
 
-// food category
+// Food category
 
 let foodMenuList = document.querySelector('.food-item-wrap')
 
@@ -39,7 +39,7 @@ Array.from(categories).forEach((item, index) => {
     }
 })
 
-// on scroll animation
+// On scroll animation
 
 let scroll = window.requestAnimationFrame || function(callback) {window.setTimeout(callback, 1000/60)}
 
@@ -71,7 +71,7 @@ loop = () => {
 
 loop()
 
-// mobile nav
+// Mobile nav
 
 let bottomNavItems = document.querySelectorAll('.mb-nav-item')
 

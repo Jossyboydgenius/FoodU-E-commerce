@@ -19,10 +19,9 @@ Download the ZIP or clone the repository (all required files are included).
 
 ## Screenshots
 
-![foody2](https://user-images.githubusercontent.com/71552773/205292467-c0c82227-eb98-4f2c-ad01-6ac64232dac4.PNG)
-
-![foody](https://user-images.githubusercontent.com/71552773/205292439-432dc63d-d6a9-4f1b-aacb-b72d10f80151.PNG)
-
-![foody3](https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG)
+<img width="1392" alt="Screenshot 2024-08-25 at 3 23 43 PM" src="https://github.com/user-attachments/assets/4ad73b60-7f18-4acf-a65d-74023a05ab61">
+<img width="1392" alt="Screenshot 2024-08-25 at 3 23 49 PM" src="https://github.com/user-attachments/assets/7c8e03e3-655f-42f7-9725-3daca95e8ea8">
+<img width="1392" alt="Screenshot 2024-08-25 at 3 23 56 PM" src="https://github.com/user-attachments/assets/970333bd-ce90-4eb5-afbc-0b7ac6a43c6e">
+<img width="1392" alt="Screenshot 2024-08-25 at 3 24 03 PM" src="https://github.com/user-attachments/assets/df25e3cc-270a-4852-8d57-13a52ab5fea9">
 
 ---

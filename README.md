@@ -15,6 +15,11 @@ The platform is built using HTML, JavaScript, CSS, and SCSS, ensuring a responsi
 
 Download the ZIP or clone the repository (all required files are included).
 
+## Clone this repo 
+```bash 
+git clone https://github.com/Jossyboydgenius/FoodU-E-commerce.git
+```
+
 ### View the Website Here
 
 [fooduu.vercel.app](https://fooduu.vercel.app)

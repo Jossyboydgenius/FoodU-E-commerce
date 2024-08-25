@@ -1,4 +1,4 @@
-# Food-E-commerce
+# FoodU-E-commerce
 
 Fooduu is a modern e-commerce platform designed to make buying food online simple, fast, and convenient. A website to sell food products online, Fooduu connects customers with a wide range of food options, from fresh produce to gourmet meals. The platform is built using HTML, JavaScript, CSS, and SCSS, ensuring a responsive and visually appealing experience across all devices.
 

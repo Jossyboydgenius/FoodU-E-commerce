@@ -465,11 +465,6 @@ section {
     transition-delay: .12s;
 }
 
-
-
-
-
-
 /* GRID SYSTEM */
 
 .row {
@@ -685,5 +680,30 @@ section {
 
     .h-xs {
         display: none;
+    }
+
+    #home .container {
+    display: flex;
+    align-items: center;
+    }
+
+.slogan {
+    flex: 1;
+    padding-right: 2rem; /* Add some space between text and image */
+    }
+
+.bg-img {
+    flex: 1;
+    height: 100vh; /* Full height of the viewport */
+    background-position: center;
+    background-size: cover;
+    }
+
+.slogan h1 {
+    font-size: 5rem; /* Further increase h1 size for larger screens */
+    }
+
+.slogan p {
+    font-size: 1.2rem; /* Slightly larger paragraph text for readability */
     }
 }
